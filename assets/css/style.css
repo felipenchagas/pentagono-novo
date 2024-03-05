@@ -1588,7 +1588,7 @@ body.search-visible {
 .breadcrumb-bg {
     background-size: cover;
     background-position: center;
-    padding: 355px 0 95px;
+    padding: 225px 0 95px;
     position: relative;
     z-index: 1;
 }
