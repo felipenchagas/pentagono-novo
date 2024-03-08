@@ -536,7 +536,7 @@ label {
     margin-right: 40px;
 }
 .navbar-wrap ul li:last-child {
-    margin-right: 0;
+    margin-right: 50px;
 }
 .navbar-wrap ul li a {
     font-size: 14px;
